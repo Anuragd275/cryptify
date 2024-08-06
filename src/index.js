@@ -25,7 +25,7 @@ const Approuter = createBrowserRouter([
       { path: "/", element: <Home /> },
       { path: "/top10", element: <Top10 /> },
       { path: "/trending", element: <Trending /> },
-      {path: "/watchlist", element: <WatchList/>}
+      { path: "/watchlist", element: <WatchList/> }
     ]
   }
 ])
