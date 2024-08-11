@@ -1,7 +1,7 @@
 const Home = function () {
 
   return (
-  <div class="flex flex-col justify-center items-center">
+  <div class="flex flex-col justify-center items-center font-display">
     <div>
       <h1 class="text-4xl font-bold pt-4 my-4">
         Boost your productivity.<br/>
