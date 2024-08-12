@@ -22,7 +22,7 @@ const Applayout = () => {
     <div>
       <Navbar />
       <Outlet />
-      {/* <Footer /> */}
+      {/* <Footer /> */} // Uncomment to add Footer
     </div>
   );
 };
